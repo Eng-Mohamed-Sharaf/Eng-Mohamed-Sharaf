@@ -1,5 +1,5 @@
 # Mohamed_Sharaf
 
-Software Engineer seeking for front end development with React
+Software Engineer seeking for Embedded Software development with C
 
-I'am working on learn Node.js and Mongo to become a MERN FullStack developer
+I'am working on learn C and C++ to become a Embedded Software developer
